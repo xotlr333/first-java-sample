@@ -1,1 +1,3 @@
-# first-java-sample
+# EC2에 배포해보기
+
+EC2 서버에 Spring 프로젝트를 배포해보기 위한 프로젝트입니다.
